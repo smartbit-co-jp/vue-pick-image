@@ -1,0 +1,15 @@
+{
+  "name": "vue-pick-image",
+  "version": "1.0.0",
+  "description": "vue component to pick and preview image",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Tanaka",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.19.0"
+  }
+}
